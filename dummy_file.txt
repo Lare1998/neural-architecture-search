@@ -3582,3 +3582,5 @@ Commit 94 on 2023-03-02 00:00:00 - test: Test concurrent access
 Commit 95 on 2023-03-02 00:00:00 - docs: Create architectural overview
 Commit 96 on 2023-03-02 00:00:00 - test: Use fixtures for test data
 Commit 97 on 2023-03-02 00:00:00 - ci: Add performance benchmarks
+Commit 98 on 2023-03-03 00:00:00 - build: Update compiler flags
+Commit 99 on 2023-03-03 00:00:00 - fix: Address security vulnerabilities
