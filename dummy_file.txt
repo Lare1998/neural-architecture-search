@@ -3309,3 +3309,8 @@ Commit 86 on 2023-06-15 12:37:51 - build: Automate documentation generation
 Commit 87 on 2023-06-16 12:37:51 - perf: Reduce bundle size
 Commit 88 on 2023-06-16 12:37:51 - chore: Bump version number
 Commit 89 on 2023-06-19 12:37:51 - fix: Correct timezone handling
+Commit 90 on 2023-06-20 12:37:51 - fix: Correct off-by-one errors
+Commit 91 on 2023-06-20 12:37:51 - fix: Correct timezone handling
+Commit 92 on 2023-06-20 12:37:51 - docs: Generate Sphinx documentation
+Commit 93 on 2023-06-20 12:37:51 - chore: Bump version number
+Commit 94 on 2023-06-20 12:37:51 - docs: Update README with installation instructions
