@@ -1612,3 +1612,4 @@ Activity on 2023-06-19 00:00:00 - style: Use type hints
 Activity on 2023-06-19 00:00:00 - refactor: Improve logging mechanism
 Activity on 2023-06-19 00:00:00 - test: Add unit tests for core logic
 Activity on 2023-06-20 00:00:00 - chore: Update dependencies in requirements.txt
+Activity on 2023-06-21 00:00:00 - docs: Add contribution guidelines
