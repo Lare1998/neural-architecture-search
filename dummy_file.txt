@@ -3317,3 +3317,6 @@ Commit 94 on 2023-06-20 12:37:51 - docs: Update README with installation instruc
 Commit 95 on 2023-06-21 12:37:51 - build: Automate documentation generation
 Commit 96 on 2023-06-21 12:37:51 - chore: Upgrade Python version
 Commit 97 on 2023-06-21 12:37:51 - feat: Introduce dark mode theme
+Commit 98 on 2023-06-23 12:37:51 - feat: Implement user profile management
+Commit 99 on 2023-06-23 12:37:51 - docs: Create architectural overview
+Commit 100 on 2023-06-23 12:37:51 - ci: Add linting to pre-commit hooks
