@@ -1636,3 +1636,4 @@ Activity on 2023-07-07 00:00:00 - build: Upgrade build tools
 Activity on 2023-07-10 00:00:00 - chore: Update dependencies in requirements.txt
 Activity on 2023-07-10 00:00:00 - test: Use fixtures for test data
 Activity on 2023-07-11 00:00:00 - docs: Create quick start guide
+Activity on 2023-07-12 00:00:00 - build: Set up release branches
