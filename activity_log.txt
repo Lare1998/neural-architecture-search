@@ -1817,3 +1817,6 @@ Activity on 2023-12-08 00:00:00 - style: Enforce maximum line length
 Activity on 2023-12-08 00:00:00 - refactor: Break down large functions
 Activity on 2023-12-11 00:00:00 - build: Set up release branches
 Activity on 2023-12-12 00:00:00 - feat: Implement user roles and permissions
+Activity on 2023-12-14 00:00:00 - test: Use fixtures for test data
+Activity on 2023-12-14 00:00:00 - test: Use fixtures for test data
+Activity on 2023-12-14 00:00:00 - ci: Add code coverage reporting
