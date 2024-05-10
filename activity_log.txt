@@ -594,3 +594,4 @@ Activity on 2024-05-07 00:00:00 - build: Update CI/CD pipeline configuration
 Activity on 2024-05-08 00:00:00 - ci: Add vulnerability scanning
 Activity on 2024-05-08 00:00:00 - chore: Migrate to new hosting provider
 Activity on 2024-05-09 00:00:00 - fix: Correct timezone handling
+Activity on 2024-05-10 00:00:00 - docs: Update README with installation instructions
