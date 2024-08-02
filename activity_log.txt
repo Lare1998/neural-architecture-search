@@ -699,3 +699,5 @@ Activity on 2024-07-31 00:00:00 - docs: Update README with installation instruct
 Activity on 2024-07-31 00:00:00 - refactor: Improve logging mechanism
 Activity on 2024-08-01 00:00:00 - chore: Clean up unused files and resources
 Activity on 2024-08-01 00:00:00 - perf: Reduce network requests
+Activity on 2024-08-02 00:00:00 - docs: Add troubleshooting guide
+Activity on 2024-08-02 00:00:00 - fix: Address security vulnerabilities
