@@ -791,3 +791,4 @@ Activity on 2024-10-23 00:00:00 - perf: Reduce bundle size
 Activity on 2024-10-24 00:00:00 - perf: Reduce memory footprint of data structures
 Activity on 2024-10-24 00:00:00 - test: Write property-based tests
 Activity on 2024-10-24 00:00:00 - build: Fix Dockerfile issues
+Activity on 2024-10-25 00:00:00 - build: Set up cross-compilation
