@@ -808,3 +808,5 @@ Activity on 2024-11-06 00:00:00 - ci: Integrate with SonarQube
 Activity on 2024-11-07 00:00:00 - docs: Improve inline comments
 Activity on 2024-11-07 00:00:00 - chore: Update CI/CD runners
 Activity on 2024-11-07 00:00:00 - refactor: Improve logging mechanism
+Activity on 2024-11-11 00:00:00 - style: Remove redundant comments
+Activity on 2024-11-11 00:00:00 - build: Fix Dockerfile issues
