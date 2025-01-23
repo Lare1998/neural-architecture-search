@@ -2294,3 +2294,4 @@ Activity on 2025-01-21 00:00:00 - test: Add unit tests for core logic
 Activity on 2025-01-21 00:00:00 - ci: Integrate with SonarQube
 Activity on 2025-01-21 00:00:00 - perf: Optimize query performance
 Activity on 2025-01-22 00:00:00 - chore: Update CI/CD runners
+Activity on 2025-01-23 00:00:00 - docs: Add contribution guidelines
