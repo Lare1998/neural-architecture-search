@@ -995,3 +995,4 @@ Activity on 2025-04-08 00:00:00 - fix: Handle null pointer exceptions
 Activity on 2025-04-09 00:00:00 - refactor: Use dependency injection
 Activity on 2025-04-09 00:00:00 - docs: Generate Sphinx documentation
 Activity on 2025-04-09 00:00:00 - ci: Add linting to pre-commit hooks
+Activity on 2025-04-10 00:00:00 - docs: Create architectural overview
