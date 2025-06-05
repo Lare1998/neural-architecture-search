@@ -2452,3 +2452,5 @@ Activity on 2025-06-03 00:00:00 - style: Use f-strings for formatting
 Activity on 2025-06-03 00:00:00 - ci: Add performance benchmarks
 Activity on 2025-06-03 00:00:00 - fix: Resolve data serialization issues
 Activity on 2025-06-04 00:00:00 - docs: Add contribution guidelines
+Activity on 2025-06-05 00:00:00 - test: Test error handling paths
+Activity on 2025-06-05 00:00:00 - ci: Add linting to pre-commit hooks
