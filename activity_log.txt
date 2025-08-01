@@ -1131,3 +1131,4 @@ Activity on 2025-07-30 00:00:00 - docs: Create quick start guide
 Activity on 2025-07-30 00:00:00 - refactor: Use context managers
 Activity on 2025-07-30 00:00:00 - style: Adjust indentation and spacing
 Activity on 2025-07-31 00:00:00 - style: Use black for formatting
+Activity on 2025-08-01 00:00:00 - docs: Add API documentation
