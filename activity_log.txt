@@ -1325,3 +1325,5 @@ Activity on 2026-01-07 00:00:00 - build: Set up pre-commit hooks
 Activity on 2026-01-08 00:00:00 - docs: Create architectural overview
 Activity on 2026-01-08 00:00:00 - perf: Reduce bundle size
 Activity on 2026-01-08 00:00:00 - perf: Reduce bundle size
+Activity on 2026-01-09 00:00:00 - refactor: Use dependency injection
+Activity on 2026-01-09 00:00:00 - docs: Update README with installation instructions
