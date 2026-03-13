@@ -2796,3 +2796,5 @@ Activity on 2026-03-09 00:00:00 - test: Add unit tests for core logic
 Activity on 2026-03-10 00:00:00 - build: Set up cross-compilation
 Activity on 2026-03-12 00:00:00 - fix: Correct input validation logic
 Activity on 2026-03-12 00:00:00 - test: Use fixtures for test data
+Activity on 2026-03-13 00:00:00 - test: Add unit tests for core logic
+Activity on 2026-03-13 00:00:00 - fix: Correct off-by-one errors
